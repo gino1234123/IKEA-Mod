@@ -1,4 +1,4 @@
-﻿capital = 141	
+﻿capital = 139	
 
 oob = "IKEA_1936"
 if = {
@@ -176,9 +176,9 @@ set_stability = 0.9
 
 
 create_country_leader = {
-	name = "Leon Trotsky"
-	desc = ""
-	picture = "gfx/leaders/IKEA/Portrait_Leon_Trotsky.dds"
+	name = "Ingvar Kamprad"
+	desc = "POLITICS_SVEN_OLOV_LINDHOLM_DESC"
+	picture = "gfx/leaders/IKEA/IKEAMAN.dds"
 	expire = "1965.1.1"
 	ideology = socialism
 	traits = {
@@ -187,9 +187,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "IKEAMAN"
+	name = "IKEA MAN"
 	desc = "POLITICS_SVEN_OLOV_LINDHOLM_DESC"
-	picture = "gfx/leaders/IKEA/IKEAMAN.dds"
+	picture = "gfx/leaders/IKEA/IKEAleader_fxs.dds"
 	expire = "1965.1.1"
 	ideology = nazism
 	traits = {
@@ -198,9 +198,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "IKEAMAN"
-	desc = "POLITICS_SVEN_LINDEROT_DESC"
-	picture = "gfx/leaders/IKEA/IKEAMAN.dds"
+	name = "Leon Trotsky"
+	desc = ""
+	picture = "gfx/leaders/IKEA/IKEAleader_mar.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
@@ -209,9 +209,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "IKEAMAN"
+	name = "Gustaf V"
 	desc = "POLITICS_AXEL_PEHRSSON_BRAMSTORP_DESC"
-	picture = "gfx/leaders/IKEA/IKEAMAN.dds"
+	picture = "gfx/leaders/IKEA/IKEAleader_neu.dds"
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {
