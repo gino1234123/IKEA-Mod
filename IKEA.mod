@@ -3,4 +3,4 @@ path="mod/IKEA/"
 tags={
 	"Utilities"
 }
-supported_version="1.7.1"
+supported_version="1.9.*"
